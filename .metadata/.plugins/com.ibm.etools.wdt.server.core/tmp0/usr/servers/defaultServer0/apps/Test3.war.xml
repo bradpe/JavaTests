@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<archive id="defaultServer0">
+  <dir sourceOnDisk="/home/bpeters/Development/JavaTests/Test3/WebContent" targetInArchive="/"/>
+  <dir sourceOnDisk="/home/bpeters/Development/JavaTests/Test3/build/classes" targetInArchive="/WEB-INF/classes"/>
+  <dir sourceOnDisk="/home/bpeters/Development/JavaTests/Test3/build/classes" targetInArchive="/WEB-INF/classes"/>
+</archive>
