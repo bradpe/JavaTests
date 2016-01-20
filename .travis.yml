@@ -1,4 +1,2 @@
+anguage: java
 
-language: java
-
-gradle check
